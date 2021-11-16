@@ -11,3 +11,13 @@ Machine learning has traditionally relied on creating models around data that ca
 
 In this talk we will compare and contrast models created with individual data points to those made entirely with graphs and hybrids of the two.  We will explore a variety of techniques that are used for creating graph embeddings, the vectors for representing graphs that are created in a similar fashion to the feature engineering and vector embeddings associated with traditional machine learning.  We will focus on the optimization of the graph embeddings and explore some real-world examples of their use individually and in conjunction with the traditional types of machine learning embeddings.  Special emphasis will be placed on the benefits of using graph embeddings with significant class imbalance.  We will also discuss the use of these embeddings with traditional machine learning packages and workflows, such as through the use of scikit-learn and TensorFlow.
 
+### Code and slides
+
+The slides for this talk are available in this repository.
+
+The code used for this talk can be found in [this Google Colab Notebook](https://dev.neo4j.com/classic_vs_graph_ml).  Lastly, I have written a blog post on Towards Data Science that walks through this process in much more detail, which can be found here.
+
+
+
+
+
