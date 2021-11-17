@@ -3,7 +3,7 @@
 ### Written by Dr. Clair J. Sullivan, Data Science Advocate, Neo4j
 #### email: clair.sullivan@neo4j.com
 #### Twitter: @CJLovesData1
-#### Last updated: 2021-11-16
+#### Last updated: 2021-11-17
 
 ## Abstract
 
@@ -15,8 +15,7 @@ In this talk we will compare and contrast models created with individual data po
 
 The slides for this talk are available in this repository.
 
-The code used for this talk can be found in [this Google Colab Notebook](https://dev.neo4j.com/classic_vs_graph_ml).  Lastly, I have written a blog post on Towards Data Science that walks through this process in much more detail, which can be found here.
-
+The code used for this talk can be found in [this Google Colab Notebook](https://dev.neo4j.com/classic_vs_graph_ml).  
 
 
 
